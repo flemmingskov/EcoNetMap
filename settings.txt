@@ -1,0 +1,8 @@
+[project]
+project_base_path = /Users/au3406/Desktop/coTopo
+data_folder = data
+queries_folder = queries
+reference_maps_folder = reference_maps
+overlay_maps_folder = overlay_maps
+external_data_folder = external_data
+figures_folder = figures
